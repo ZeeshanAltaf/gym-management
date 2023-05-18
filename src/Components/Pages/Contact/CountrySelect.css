@@ -1,0 +1,33 @@
+.css-1s2u09g-control {
+    background-color: transparent !important;
+    border: none !important;
+    /* border-bottom: 1px solid #ccc !important; */
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    z-index: 50 !important;
+}
+
+.css-qc6sy-singleValue {
+    color: rgb(95, 95, 95) !important;
+}
+
+.css-319lph-ValueContainer:focus .css-1s2u09g-control {
+    /* background-color: red !important; */
+    color: black !important;
+    z-index: 50 !important;
+}
+
+.z_index,
+.css-6j8wv5-Input {
+    z-index: 100 !important;
+}
+
+.css-qc6sy-singleValue:focus {
+    border: none !important;
+    outline: none !important;
+}
+
+#join-us{
+    background-image: url('../../../assets//Image/contact/crossfit.png');
+    background-repeat: no-repeat;
+}
